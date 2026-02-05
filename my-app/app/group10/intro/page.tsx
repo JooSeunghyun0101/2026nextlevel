@@ -19,8 +19,8 @@ const group9People = [
 ];
 
 const group10People = [
-    { name: "이현호", department: "在 OK신용정보 대표이사", position: "OK금융그룹 상무", title: "신규임원", image: "/members/0000097_cropped.png", video: "/members/0000097.mp4" },
-    { name: "이종대", department: "在 OK캐피탈 경영관리본부 담당임원", position: "OK금융그룹 상무", title: "신규임원", image: "/members/0000096_cropped.png", video: "/members/0000096.mp4" },
+    { name: "이현호", department: "任 OK신용정보 대표이사", position: "OK금융그룹 상무", title: "신규임원", image: "/members/0000097_cropped.png", video: "/members/0000097.mp4" },
+    { name: "이종대", department: "任 OK캐피탈 경영관리본부 담당임원", position: "OK금융그룹 상무", title: "신규임원", image: "/members/0000096_cropped.png", video: "/members/0000096.mp4" },
 ];
 
 const combinedPeople = [...group7People, ...group8People, ...group9People, ...group10People];
